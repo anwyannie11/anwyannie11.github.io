@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Popsy Nails & Mehendi
 
 You can use the [editor on GitHub](https://github.com/anwyannie11/anwyannie11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+Henna & Nail Salon in Bellevue
+Opening at 4PM
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,8 +14,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+View Menu
 ## Header 2
+Updates
 ### Header 3
+About Me & Popsy Nails Mehendi
 
 - Bulleted
 - List
